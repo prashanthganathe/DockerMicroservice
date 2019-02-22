@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  dockermicroservice:
+    image: dockermicroservice
+    build:
+      context: ./DockerMicroservice
+      dockerfile: Dockerfile

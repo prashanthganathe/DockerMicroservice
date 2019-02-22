@@ -1,0 +1,15 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  dockermicroservice:
+    build:
+      context: D:\GitHub\NewProjects\DockerMicroservice\DockerMicroservice\DockerMicroservice
+      dockerfile: Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: dockermicroservice
+    ports:
+    - 80/tcp
+version: '3.0'

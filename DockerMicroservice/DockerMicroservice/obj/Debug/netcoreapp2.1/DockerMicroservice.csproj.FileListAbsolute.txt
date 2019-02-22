@@ -1,0 +1,14 @@
+D:\GitHub\NewProjects\DockerMicroservice\DockerMicroservice\DockerMicroservice\bin\Debug\netcoreapp2.1\DockerMicroservice.deps.json
+D:\GitHub\NewProjects\DockerMicroservice\DockerMicroservice\DockerMicroservice\bin\Debug\netcoreapp2.1\DockerMicroservice.runtimeconfig.json
+D:\GitHub\NewProjects\DockerMicroservice\DockerMicroservice\DockerMicroservice\bin\Debug\netcoreapp2.1\DockerMicroservice.runtimeconfig.dev.json
+D:\GitHub\NewProjects\DockerMicroservice\DockerMicroservice\DockerMicroservice\bin\Debug\netcoreapp2.1\DockerMicroservice.dll
+D:\GitHub\NewProjects\DockerMicroservice\DockerMicroservice\DockerMicroservice\bin\Debug\netcoreapp2.1\DockerMicroservice.pdb
+D:\GitHub\NewProjects\DockerMicroservice\DockerMicroservice\DockerMicroservice\obj\Debug\netcoreapp2.1\DockerMicroservice.csprojResolveAssemblyReference.cache
+D:\GitHub\NewProjects\DockerMicroservice\DockerMicroservice\DockerMicroservice\obj\Debug\netcoreapp2.1\DockerMicroservice.csproj.CoreCompileInputs.cache
+D:\GitHub\NewProjects\DockerMicroservice\DockerMicroservice\DockerMicroservice\obj\Debug\netcoreapp2.1\DockerMicroservice.RazorAssemblyInfo.cache
+D:\GitHub\NewProjects\DockerMicroservice\DockerMicroservice\DockerMicroservice\obj\Debug\netcoreapp2.1\DockerMicroservice.RazorAssemblyInfo.cs
+D:\GitHub\NewProjects\DockerMicroservice\DockerMicroservice\DockerMicroservice\obj\Debug\netcoreapp2.1\DockerMicroservice.AssemblyInfoInputs.cache
+D:\GitHub\NewProjects\DockerMicroservice\DockerMicroservice\DockerMicroservice\obj\Debug\netcoreapp2.1\DockerMicroservice.AssemblyInfo.cs
+D:\GitHub\NewProjects\DockerMicroservice\DockerMicroservice\DockerMicroservice\obj\Debug\netcoreapp2.1\DockerMicroservice.RazorTargetAssemblyInfo.cache
+D:\GitHub\NewProjects\DockerMicroservice\DockerMicroservice\DockerMicroservice\obj\Debug\netcoreapp2.1\DockerMicroservice.dll
+D:\GitHub\NewProjects\DockerMicroservice\DockerMicroservice\DockerMicroservice\obj\Debug\netcoreapp2.1\DockerMicroservice.pdb
